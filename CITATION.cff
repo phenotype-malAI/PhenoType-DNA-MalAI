@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "PHENO TYPE: Behavioural DNA Framework for Malware Attribution"
+authors:
+  - family-names: "Singh"
+    given-names: "Harmanpreet"
+  - family-names: "Joshi"
+    given-names: "Parwaaz"
+version: "1.0.0"
+date-released: "2026-04-22"
+license: MIT
+repository-code: "https://github.com/HarmanpreetSingh/phenotype-malai"
+abstract: >
+  PHENO TYPE attributes Windows malware to family by encoding sequences of
+  API calls captured by CAPE Sandbox into 256-dimensional behavioural
+  fingerprints using a Transformer encoder trained with Supervised Contrastive
+  Loss. A cosine-similarity threshold enables open-world UNKNOWN rejection
+  without retraining, achieving 80.8% rejection rate across 5 novel families.
+keywords:
+  - malware-attribution
+  - behavioural-analysis
+  - transformer
+  - contrastive-learning
+  - supervised-contrastive-loss
+  - CAPE-sandbox
+  - open-world-recognition
+  - windows-api
