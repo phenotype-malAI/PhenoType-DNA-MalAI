@@ -18,8 +18,10 @@ import torch.nn.functional as F
 from model import BehaviourEncoder
 from dataset import IDX_TO_FAMILY, FAMILY_TO_IDX
 
-# Update this after running train.py — check threshold_calibration.png
-# First run suggested 0.99, but use 0.97 to avoid over-rejection
+# Calibrated on the validation set (see train.py's threshold_calibration.png):
+# this is the value that best separates correct- and wrong-attribution score
+# distributions. Re-calibrate and update this if you retrain on a different
+# dataset split or add new families.
 THRESHOLD = 0.986
 
 

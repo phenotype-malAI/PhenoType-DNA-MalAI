@@ -1,0 +1,8 @@
+{
+  "auroc": 0.8530896551724139,
+  "deployed_threshold": 0.986,
+  "tpr_at_deployed": 0.6586206896551724,
+  "fpr_at_deployed": 0.132,
+  "n_known": 290,
+  "n_novel": 250
+}

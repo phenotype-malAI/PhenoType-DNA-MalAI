@@ -1,0 +1,9 @@
+{
+  "n_seeds": 5,
+  "test_accuracy_mean": 0.7151724137931035,
+  "test_accuracy_std": 0.015148884576888856,
+  "macro_f1_mean": 0.7241342143478411,
+  "macro_f1_std": 0.017816351692196263,
+  "open_world_rejection_pct_mean": 84.56,
+  "open_world_rejection_pct_std": 4.42357321630376
+}

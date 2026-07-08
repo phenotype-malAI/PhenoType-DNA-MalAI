@@ -107,12 +107,42 @@ def evaluate(model, dataset, centroids, device, batch_size: int = 16):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# NEW: dump per-sample best-centroid score for the known test set.
+# Combined with eval_held_out.py's held_out_results.json (novel samples),
+# this gives everything needed for an ROC / AUROC curve over the open-world
+# known-vs-novel decision (see compute_open_world_roc.py).
+# ─────────────────────────────────────────────────────────────────────────────
+@torch.no_grad()
+def dump_test_scores(model, dataset, centroids, device, save_path, batch_size: int = 16):
+    model.eval()
+    if device.type == 'cuda':
+        torch.cuda.empty_cache()
+    loader = DataLoader(dataset, batch_size=batch_size, shuffle=False, num_workers=0)
+    cent_matrix = torch.stack([centroids[i] for i in range(5)]).to(device)
+
+    rows = []
+    for tokens, labels in loader:
+        fp = model(tokens.to(device))
+        sims = fp @ cent_matrix.T
+        best_score, pred = sims.max(dim=1)
+        for score, p, l in zip(best_score.cpu(), pred.cpu(), labels):
+            rows.append({
+                'true_family': IDX_TO_FAMILY[l.item()],
+                'predicted_family': IDX_TO_FAMILY[p.item()],
+                'best_score': round(score.item(), 6),
+                'is_known': 1,  # ground truth: this sample IS from a known family
+            })
+    pd.DataFrame(rows).to_csv(save_path, index=False)
+    print(f"Per-sample test scores saved -> {save_path}")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Threshold calibration plot
 # ─────────────────────────────────────────────────────────────────────────────
 @torch.no_grad()
 def plot_threshold_calibration(model, dataset, centroids, device,
                                 batch_size: int = 16, save_path: str = None,
-                                current_threshold: float = 0.85):
+                                current_threshold: float = 0.986):
     model.eval()
     if device.type == 'cuda':
         torch.cuda.empty_cache()
@@ -301,6 +331,11 @@ def train(args):
     with open(out_dir / 'test_report.json', 'w') as f:
         json.dump(report, f, indent=2)
 
+    # ── NEW: dump per-sample test scores for ROC/AUROC analysis ────────────────
+    dump_test_scores(model, test_set, centroids, device,
+                      save_path=str(out_dir / 'test_scores.csv'),
+                      batch_size=args.infer_batch_size)
+
     # ── Threshold calibration ──────────────────────────────────────────────────
     print("\n─── THRESHOLD CALIBRATION ───")
     if device.type == 'cuda':
@@ -330,7 +365,7 @@ if __name__ == '__main__':
     parser.add_argument('--lr',               type=float, default=3e-4)
     parser.add_argument('--temperature',      type=float, default=0.07)
     parser.add_argument('--patience',         type=int,   default=10)
-    parser.add_argument('--threshold',        type=float, default=0.85,
+    parser.add_argument('--threshold',        type=float, default=0.986,
                         help='Threshold annotated on calibration plot')
     parser.add_argument('--seed',             type=int,   default=42)
     args = parser.parse_args()
