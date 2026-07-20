@@ -1,0 +1,16 @@
+perturbation,severity,SupCon_closed_acc,SupCon_openworld_rejection,CrossEntropy_closed_acc,CrossEntropy_openworld_rejection
+insertion,0.0,0.7483,0.868,0.7379,0.772
+insertion,0.05,0.7379,0.884,0.6345,0.868
+insertion,0.1,0.7586,0.888,0.569,0.868
+insertion,0.2,0.7276,0.88,0.5172,0.884
+insertion,0.3,0.7069,0.844,0.4621,0.892
+deletion,0.0,0.7483,0.868,0.7379,0.772
+deletion,0.05,0.7241,0.852,0.7276,0.768
+deletion,0.1,0.7207,0.832,0.7207,0.76
+deletion,0.2,0.7,0.852,0.6655,0.78
+deletion,0.3,0.6759,0.888,0.6724,0.772
+reordering,0.0,0.7483,0.868,0.7379,0.772
+reordering,0.05,0.7483,0.868,0.731,0.772
+reordering,0.1,0.7379,0.864,0.7483,0.776
+reordering,0.2,0.731,0.852,0.7069,0.78
+reordering,0.3,0.7241,0.86,0.7207,0.788

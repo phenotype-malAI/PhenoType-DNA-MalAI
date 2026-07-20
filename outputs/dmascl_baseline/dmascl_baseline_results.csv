@@ -1,0 +1,2 @@
+Model,Accuracy,F1_AgentTesla,F1_Formbook,F1_Lokibot,F1_Redline,F1_njRAT
+"DMASCL-style (CE+SupCon joint, Ours-proxy)",0.7483,0.6701,0.7222,0.4752,0.9726,0.9375

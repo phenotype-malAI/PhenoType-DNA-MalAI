@@ -237,6 +237,7 @@ def run_crossentropy(train_set, val_set, test_set, device, epochs=50, batch_size
 
     # Reload best (by validation) checkpoint, then touch the test set exactly once.
     model.load_state_dict(best_state)
+    torch.save(model.state_dict(), Path(args.out_dir) / 'crossentropy_model.pt')
     test_acc, test_f1 = _classifier_eval(model, test_set, device)
     print(f"  BEST (val) acc={best_acc:.4f}  |  TEST  acc={test_acc:.4f}  f1={test_f1}")
     return test_acc, test_f1, model  # also returns the reloaded best model

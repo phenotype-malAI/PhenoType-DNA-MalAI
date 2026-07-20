@@ -1,0 +1,7 @@
+Family,Total,Rejected_UNKNOWN,Rejection_Rate_%,Avg_Max_Softmax
+Amadey,50,15,30.0,0.9412
+Dacic,50,45,90.0,0.7869
+Qakbot,50,48,96.0,0.8279
+Remcos,50,50,100.0,0.5733
+Smokeloader,50,35,70.0,0.8861
+OVERALL,250,193,77.2,0.8031
