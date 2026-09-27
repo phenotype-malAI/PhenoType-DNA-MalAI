@@ -1,0 +1,7 @@
+Model,Accuracy,F1_AgentTesla,F1_Formbook,F1_Lokibot,F1_Redline,F1_njRAT
+"Transformer+SupCon
+(Ours)",0.7241,0.585,0.7632,0.5417,0.9524,0.8788
+Transformer+CrossEntropy,0.7655172413793103,0.6222,0.7368,0.6581,0.9655,0.8986
+Transformer+MeanPool,0.7379,0.5547,0.75,0.6027,0.9524,0.9143
+"TF-IDF+LogReg
+(Baseline)",0.7586,0.6965,0.625,0.5714,0.9796,0.8889

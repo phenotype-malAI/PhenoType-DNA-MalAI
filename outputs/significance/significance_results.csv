@@ -1,0 +1,6 @@
+Baseline,SupCon_mean,Baseline_mean,Mean_diff_pts,Baseline_95pct_CI_low,Baseline_95pct_CI_high,paired_t_stat,paired_t_p,wilcoxon_stat,wilcoxon_p
+CADE (MAD-normalised distance),84.56,16.08,68.48,2.0,30.16,9.3129,0.0007,0.0,0.0625
+OpenMax (Weibull-tail on logits),84.56,38.8,45.76,36.4,41.36,14.8609,0.0001,0.0,0.0625
+Energy-based OOD (Liu et al. 2020),84.56,4.16,80.4,2.96,5.28,37.717,0.0,0.0,0.0625
+One-Class SVM (per-family),84.56,34.48,50.08,21.84,43.28,6.6738,0.0026,0.0,0.0625
+MSP-thresholded CrossEntropy,84.56,80.32,4.24,74.16,86.48,1.0159,0.3671,1.0,0.5

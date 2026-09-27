@@ -1,0 +1,6 @@
+Held-Out Family,Total Samples,Flagged UNKNOWN,UNKNOWN Rate (%),Incorrectly Attributed,Primary False Attribution,Avg Cosine Similarity
+Amadey,50,15,30.0,35,Redline (35),0.9735
+Dacic,50,44,88.0,6,Redline (5),0.9121
+Qakbot,50,50,100.0,0,None,0.9249
+Remcos,50,36,72.0,14,Lokibot (10),0.966
+Smokeloader,50,48,96.0,2,Redline (2),0.9465

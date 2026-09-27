@@ -156,9 +156,6 @@ def apply_perturbation(token_matrix, kind, severity, benign_ids, seed=0):
 
 @torch.no_grad()
 def supcon_closed_world_acc(model, centroids, tokens, labels, device, threshold=0.986, batch_size=16):
-    """Pure argmax accuracy, no threshold -- matches how Table II/III report
-    closed-world accuracy elsewhere in the paper. Threshold is reserved for
-    the separate rejection-rate metric only."""
     model.eval()
     cent_matrix = torch.stack([centroids[i] for i in range(5)]).to(device)
     loader = DataLoader(TensorDataset(torch.from_numpy(tokens), torch.from_numpy(labels)),
@@ -167,8 +164,9 @@ def supcon_closed_world_acc(model, centroids, tokens, labels, device, threshold=
     for batch_tok, batch_lbl in loader:
         fp = model(batch_tok.to(device))
         sims = fp @ cent_matrix.T
-        pred = sims.argmax(dim=1).cpu()
-        correct += int((pred == batch_lbl).sum())
+        best_score, pred = sims.max(dim=1)
+        attributed = (best_score >= threshold)
+        correct += int(((pred.cpu() == batch_lbl) & attributed.cpu()).sum())
         total += len(batch_lbl)
     return correct / total
 

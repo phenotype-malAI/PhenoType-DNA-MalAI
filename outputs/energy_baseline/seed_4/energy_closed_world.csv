@@ -1,0 +1,2 @@
+Model,Threshold,Closed_World_Acc
+"Energy-based OOD (Liu et al. 2020, on CE logits)",-2.4650164,0.7207
