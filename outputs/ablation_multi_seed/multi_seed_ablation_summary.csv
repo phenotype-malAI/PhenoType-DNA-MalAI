@@ -1,0 +1,5 @@
+Model,n_seeds,Accuracy_mean,Accuracy_std,F1_AgentTesla_mean,F1_AgentTesla_std,F1_Formbook_mean,F1_Formbook_std,F1_Lokibot_mean,F1_Lokibot_std,F1_Redline_mean,F1_Redline_std,F1_njRAT_mean,F1_njRAT_std
+Transformer+SupCon (Ours),5,0.7069,0.0238,0.5426,0.0726,0.6363,0.0754,0.557,0.0321,0.9578,0.0077,0.8929,0.0138
+Transformer+CrossEntropy,5,0.7276,0.0261,0.5856,0.0436,0.6515,0.0678,0.5743,0.0663,0.9625,0.0123,0.9065,0.0408
+Transformer+MeanPool,5,0.6965,0.0459,0.5298,0.0432,0.6251,0.1144,0.5423,0.0846,0.9435,0.0405,0.8961,0.0152
+TF-IDF+LogReg (Baseline),5,0.7255,0.0244,0.6601,0.023,0.5704,0.0554,0.4936,0.0592,0.9579,0.0196,0.9204,0.0352

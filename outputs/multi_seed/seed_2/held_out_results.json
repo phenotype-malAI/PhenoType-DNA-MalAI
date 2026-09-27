@@ -1,0 +1,3252 @@
+[
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "18fd6b193be1d541",
+    "predicted": "UNKNOWN",
+    "best_score": 0.954031,
+    "all_scores": {
+      "AgentTesla": 0.954031,
+      "Formbook": 0.922228,
+      "Lokibot": 0.948385,
+      "Redline": 0.667571,
+      "njRAT": 0.790195
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "30c8c226fbe1ec0b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.954949,
+    "all_scores": {
+      "AgentTesla": 0.547051,
+      "Formbook": 0.50889,
+      "Lokibot": 0.617979,
+      "Redline": 0.954949,
+      "njRAT": 0.574242
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "074dfa8168d74a7a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.962129,
+    "all_scores": {
+      "AgentTesla": 0.573079,
+      "Formbook": 0.533984,
+      "Lokibot": 0.643033,
+      "Redline": 0.962129,
+      "njRAT": 0.563805
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1984500308101a79",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955203,
+    "all_scores": {
+      "AgentTesla": 0.534784,
+      "Formbook": 0.493161,
+      "Lokibot": 0.608367,
+      "Redline": 0.955203,
+      "njRAT": 0.563921
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "005e021990388ca7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.985003,
+    "all_scores": {
+      "AgentTesla": 0.499151,
+      "Formbook": 0.44318,
+      "Lokibot": 0.59045,
+      "Redline": 0.985003,
+      "njRAT": 0.426558
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1a2da7655be305e2",
+    "predicted": "UNKNOWN",
+    "best_score": 0.958567,
+    "all_scores": {
+      "AgentTesla": 0.550712,
+      "Formbook": 0.510409,
+      "Lokibot": 0.623079,
+      "Redline": 0.958567,
+      "njRAT": 0.567086
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "2b6afe34d17351c5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.952976,
+    "all_scores": {
+      "AgentTesla": 0.522919,
+      "Formbook": 0.482349,
+      "Lokibot": 0.596892,
+      "Redline": 0.952976,
+      "njRAT": 0.560187
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "157a06a3b9ebe638",
+    "predicted": "UNKNOWN",
+    "best_score": 0.934756,
+    "all_scores": {
+      "AgentTesla": 0.502678,
+      "Formbook": 0.460384,
+      "Lokibot": 0.575122,
+      "Redline": 0.934756,
+      "njRAT": 0.588966
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1b26ae68f4d9a6a0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950342,
+    "all_scores": {
+      "AgentTesla": 0.587743,
+      "Formbook": 0.547609,
+      "Lokibot": 0.654223,
+      "Redline": 0.950342,
+      "njRAT": 0.608747
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0fc2f0e5ce9fa677",
+    "predicted": "UNKNOWN",
+    "best_score": 0.969984,
+    "all_scores": {
+      "AgentTesla": 0.771909,
+      "Formbook": 0.71141,
+      "Lokibot": 0.75871,
+      "Redline": 0.472598,
+      "njRAT": 0.969984
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "04276d1d19ff56d1",
+    "predicted": "UNKNOWN",
+    "best_score": 0.948813,
+    "all_scores": {
+      "AgentTesla": 0.513498,
+      "Formbook": 0.472455,
+      "Lokibot": 0.58759,
+      "Redline": 0.948813,
+      "njRAT": 0.563889
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0807e330ce25d861",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957779,
+    "all_scores": {
+      "AgentTesla": 0.550066,
+      "Formbook": 0.509802,
+      "Lokibot": 0.621875,
+      "Redline": 0.957779,
+      "njRAT": 0.561864
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "30b55fc29eb4d6ba",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957689,
+    "all_scores": {
+      "AgentTesla": 0.544166,
+      "Formbook": 0.50257,
+      "Lokibot": 0.617122,
+      "Redline": 0.957689,
+      "njRAT": 0.558732
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "098e4dd332b0246f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953513,
+    "all_scores": {
+      "AgentTesla": 0.528646,
+      "Formbook": 0.48801,
+      "Lokibot": 0.601995,
+      "Redline": 0.953513,
+      "njRAT": 0.56346
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "089ff6d60829c628",
+    "predicted": "UNKNOWN",
+    "best_score": 0.944874,
+    "all_scores": {
+      "AgentTesla": 0.821807,
+      "Formbook": 0.748777,
+      "Lokibot": 0.818313,
+      "Redline": 0.535259,
+      "njRAT": 0.944874
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "2b4af3c6426fdd29",
+    "predicted": "UNKNOWN",
+    "best_score": 0.952422,
+    "all_scores": {
+      "AgentTesla": 0.518468,
+      "Formbook": 0.476819,
+      "Lokibot": 0.593023,
+      "Redline": 0.952422,
+      "njRAT": 0.558381
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0dd3f8b25459c4e5",
+    "predicted": "Redline",
+    "best_score": 0.988877,
+    "all_scores": {
+      "AgentTesla": 0.683275,
+      "Formbook": 0.664485,
+      "Lokibot": 0.748163,
+      "Redline": 0.988877,
+      "njRAT": 0.442961
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "13cad833006158f4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.938197,
+    "all_scores": {
+      "AgentTesla": 0.835757,
+      "Formbook": 0.804533,
+      "Lokibot": 0.822928,
+      "Redline": 0.547981,
+      "njRAT": 0.938197
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "23249a373a56f69e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950007,
+    "all_scores": {
+      "AgentTesla": 0.515312,
+      "Formbook": 0.475597,
+      "Lokibot": 0.589183,
+      "Redline": 0.950007,
+      "njRAT": 0.561849
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "18ce05ff4a275f75",
+    "predicted": "UNKNOWN",
+    "best_score": 0.935373,
+    "all_scores": {
+      "AgentTesla": 0.924217,
+      "Formbook": 0.854125,
+      "Lokibot": 0.935373,
+      "Redline": 0.636307,
+      "njRAT": 0.830969
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0f6ce02639d4d4ca",
+    "predicted": "UNKNOWN",
+    "best_score": 0.959665,
+    "all_scores": {
+      "AgentTesla": 0.565605,
+      "Formbook": 0.525451,
+      "Lokibot": 0.636124,
+      "Redline": 0.959665,
+      "njRAT": 0.569428
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "18c8165d103dc616",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951461,
+    "all_scores": {
+      "AgentTesla": 0.517747,
+      "Formbook": 0.476947,
+      "Lokibot": 0.591968,
+      "Redline": 0.951461,
+      "njRAT": 0.559933
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "25b4339ec8ad9c77",
+    "predicted": "Redline",
+    "best_score": 0.995456,
+    "all_scores": {
+      "AgentTesla": 0.552275,
+      "Formbook": 0.509728,
+      "Lokibot": 0.641213,
+      "Redline": 0.995456,
+      "njRAT": 0.368671
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "14a110b7b69927a4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.893694,
+    "all_scores": {
+      "AgentTesla": 0.874173,
+      "Formbook": 0.801981,
+      "Lokibot": 0.869028,
+      "Redline": 0.514964,
+      "njRAT": 0.893694
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "22f65486ce4ad040",
+    "predicted": "Redline",
+    "best_score": 0.992064,
+    "all_scores": {
+      "AgentTesla": 0.522085,
+      "Formbook": 0.497459,
+      "Lokibot": 0.60523,
+      "Redline": 0.992064,
+      "njRAT": 0.373873
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "159592515cba7323",
+    "predicted": "UNKNOWN",
+    "best_score": 0.949825,
+    "all_scores": {
+      "AgentTesla": 0.530236,
+      "Formbook": 0.489637,
+      "Lokibot": 0.602481,
+      "Redline": 0.949825,
+      "njRAT": 0.568944
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1a8de156da2f0337",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955219,
+    "all_scores": {
+      "AgentTesla": 0.542908,
+      "Formbook": 0.50187,
+      "Lokibot": 0.615358,
+      "Redline": 0.955219,
+      "njRAT": 0.564229
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1b624e343d222ec9",
+    "predicted": "UNKNOWN",
+    "best_score": 0.958482,
+    "all_scores": {
+      "AgentTesla": 0.55009,
+      "Formbook": 0.506013,
+      "Lokibot": 0.623962,
+      "Redline": 0.958482,
+      "njRAT": 0.563087
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "2e6b822281ec0dbb",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957438,
+    "all_scores": {
+      "AgentTesla": 0.787067,
+      "Formbook": 0.713175,
+      "Lokibot": 0.781065,
+      "Redline": 0.48579,
+      "njRAT": 0.957438
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "277b2bcaac65acdc",
+    "predicted": "UNKNOWN",
+    "best_score": 0.933949,
+    "all_scores": {
+      "AgentTesla": 0.824984,
+      "Formbook": 0.745371,
+      "Lokibot": 0.826396,
+      "Redline": 0.537768,
+      "njRAT": 0.933949
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1732f5e9f764c7b8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.961236,
+    "all_scores": {
+      "AgentTesla": 0.573809,
+      "Formbook": 0.535485,
+      "Lokibot": 0.643297,
+      "Redline": 0.961236,
+      "njRAT": 0.56776
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "02ccc5d8c6c83049",
+    "predicted": "UNKNOWN",
+    "best_score": 0.95222,
+    "all_scores": {
+      "AgentTesla": 0.524936,
+      "Formbook": 0.484476,
+      "Lokibot": 0.598385,
+      "Redline": 0.95222,
+      "njRAT": 0.563459
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0201c8ff3fc3c6d8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.975502,
+    "all_scores": {
+      "AgentTesla": 0.679797,
+      "Formbook": 0.680287,
+      "Lokibot": 0.73704,
+      "Redline": 0.975502,
+      "njRAT": 0.415418
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1783a69593b72237",
+    "predicted": "UNKNOWN",
+    "best_score": 0.94854,
+    "all_scores": {
+      "AgentTesla": 0.94854,
+      "Formbook": 0.893329,
+      "Lokibot": 0.9481,
+      "Redline": 0.621274,
+      "njRAT": 0.801919
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "2d66c7492393e052",
+    "predicted": "UNKNOWN",
+    "best_score": 0.934685,
+    "all_scores": {
+      "AgentTesla": 0.825615,
+      "Formbook": 0.747803,
+      "Lokibot": 0.82686,
+      "Redline": 0.542124,
+      "njRAT": 0.934685
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "076dc8cf9c9aee0a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.978223,
+    "all_scores": {
+      "AgentTesla": 0.972411,
+      "Formbook": 0.907916,
+      "Lokibot": 0.978223,
+      "Redline": 0.620733,
+      "njRAT": 0.703117
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0002265c95ece343",
+    "predicted": "UNKNOWN",
+    "best_score": 0.93678,
+    "all_scores": {
+      "AgentTesla": 0.933473,
+      "Formbook": 0.874807,
+      "Lokibot": 0.93678,
+      "Redline": 0.635372,
+      "njRAT": 0.822496
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "298bbb72d6de069a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957821,
+    "all_scores": {
+      "AgentTesla": 0.541283,
+      "Formbook": 0.501962,
+      "Lokibot": 0.613937,
+      "Redline": 0.957821,
+      "njRAT": 0.560595
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "2147210208e3b43e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.93466,
+    "all_scores": {
+      "AgentTesla": 0.514442,
+      "Formbook": 0.474272,
+      "Lokibot": 0.584508,
+      "Redline": 0.93466,
+      "njRAT": 0.592902
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1dfb7d8d7666ce84",
+    "predicted": "UNKNOWN",
+    "best_score": 0.952881,
+    "all_scores": {
+      "AgentTesla": 0.516176,
+      "Formbook": 0.473334,
+      "Lokibot": 0.591737,
+      "Redline": 0.952881,
+      "njRAT": 0.555609
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "0b1d10bad8f35544",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953007,
+    "all_scores": {
+      "AgentTesla": 0.53727,
+      "Formbook": 0.492638,
+      "Lokibot": 0.610998,
+      "Redline": 0.953007,
+      "njRAT": 0.568315
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "088ba01dcee19f53",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951466,
+    "all_scores": {
+      "AgentTesla": 0.521446,
+      "Formbook": 0.482117,
+      "Lokibot": 0.594758,
+      "Redline": 0.951466,
+      "njRAT": 0.563268
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "24b96bca469764de",
+    "predicted": "Redline",
+    "best_score": 0.994834,
+    "all_scores": {
+      "AgentTesla": 0.56984,
+      "Formbook": 0.515839,
+      "Lokibot": 0.659429,
+      "Redline": 0.994834,
+      "njRAT": 0.412613
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "179d8940ee8d4d39",
+    "predicted": "UNKNOWN",
+    "best_score": 0.956303,
+    "all_scores": {
+      "AgentTesla": 0.5334,
+      "Formbook": 0.492027,
+      "Lokibot": 0.607308,
+      "Redline": 0.956303,
+      "njRAT": 0.558975
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "245a853886540f96",
+    "predicted": "UNKNOWN",
+    "best_score": 0.952231,
+    "all_scores": {
+      "AgentTesla": 0.52355,
+      "Formbook": 0.483262,
+      "Lokibot": 0.597191,
+      "Redline": 0.952231,
+      "njRAT": 0.562637
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "1c20a0c195b3973e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.901339,
+    "all_scores": {
+      "AgentTesla": 0.901339,
+      "Formbook": 0.843901,
+      "Lokibot": 0.89509,
+      "Redline": 0.560184,
+      "njRAT": 0.877644
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "18318b7d398f56d0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.954733,
+    "all_scores": {
+      "AgentTesla": 0.554212,
+      "Formbook": 0.516284,
+      "Lokibot": 0.624285,
+      "Redline": 0.954733,
+      "njRAT": 0.58031
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "30dd3052643e94bb",
+    "predicted": "UNKNOWN",
+    "best_score": 0.893874,
+    "all_scores": {
+      "AgentTesla": 0.88887,
+      "Formbook": 0.828544,
+      "Lokibot": 0.886347,
+      "Redline": 0.572081,
+      "njRAT": 0.893874
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "21eb66b618c52776",
+    "predicted": "Redline",
+    "best_score": 0.991106,
+    "all_scores": {
+      "AgentTesla": 0.539732,
+      "Formbook": 0.489627,
+      "Lokibot": 0.633145,
+      "Redline": 0.991106,
+      "njRAT": 0.347164
+    }
+  },
+  {
+    "true_family": "Amadey",
+    "sha256_prefix": "084bfe8726010da1",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96608,
+    "all_scores": {
+      "AgentTesla": 0.766951,
+      "Formbook": 0.698187,
+      "Lokibot": 0.753601,
+      "Redline": 0.444092,
+      "njRAT": 0.96608
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "06a0d2d406cbec6c",
+    "predicted": "Redline",
+    "best_score": 0.994829,
+    "all_scores": {
+      "AgentTesla": 0.594583,
+      "Formbook": 0.573262,
+      "Lokibot": 0.670458,
+      "Redline": 0.994829,
+      "njRAT": 0.388288
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0a78372be2b5ab85",
+    "predicted": "UNKNOWN",
+    "best_score": 0.931666,
+    "all_scores": {
+      "AgentTesla": 0.77616,
+      "Formbook": 0.745489,
+      "Lokibot": 0.73803,
+      "Redline": 0.326563,
+      "njRAT": 0.931666
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0c3fce62334aedd0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.952104,
+    "all_scores": {
+      "AgentTesla": 0.739718,
+      "Formbook": 0.712969,
+      "Lokibot": 0.70503,
+      "Redline": 0.33738,
+      "njRAT": 0.952104
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "09c8dc4d5e6b4db5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.902367,
+    "all_scores": {
+      "AgentTesla": 0.852092,
+      "Formbook": 0.811989,
+      "Lokibot": 0.823207,
+      "Redline": 0.407887,
+      "njRAT": 0.902367
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0e00e8157db7cc89",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955926,
+    "all_scores": {
+      "AgentTesla": 0.705831,
+      "Formbook": 0.676371,
+      "Lokibot": 0.672321,
+      "Redline": 0.316928,
+      "njRAT": 0.955926
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "247bcc205dd85294",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951445,
+    "all_scores": {
+      "AgentTesla": 0.7312,
+      "Formbook": 0.706989,
+      "Lokibot": 0.6944,
+      "Redline": 0.325366,
+      "njRAT": 0.951445
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "11e57bae7aec9f5a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.954295,
+    "all_scores": {
+      "AgentTesla": 0.72881,
+      "Formbook": 0.695567,
+      "Lokibot": 0.695195,
+      "Redline": 0.322019,
+      "njRAT": 0.954295
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0d945616110f5406",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953821,
+    "all_scores": {
+      "AgentTesla": 0.724766,
+      "Formbook": 0.689434,
+      "Lokibot": 0.692567,
+      "Redline": 0.321832,
+      "njRAT": 0.953821
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "28bd947b72e6d87f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953387,
+    "all_scores": {
+      "AgentTesla": 0.747138,
+      "Formbook": 0.710708,
+      "Lokibot": 0.715761,
+      "Redline": 0.344164,
+      "njRAT": 0.953387
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "26ef7d8514bc10aa",
+    "predicted": "UNKNOWN",
+    "best_score": 0.93163,
+    "all_scores": {
+      "AgentTesla": 0.794747,
+      "Formbook": 0.77215,
+      "Lokibot": 0.75915,
+      "Redline": 0.3731,
+      "njRAT": 0.93163
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2a1dcd9269c03dc2",
+    "predicted": "UNKNOWN",
+    "best_score": 0.961456,
+    "all_scores": {
+      "AgentTesla": 0.691888,
+      "Formbook": 0.662163,
+      "Lokibot": 0.65759,
+      "Redline": 0.308218,
+      "njRAT": 0.961456
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2296a099200f9562",
+    "predicted": "UNKNOWN",
+    "best_score": 0.92482,
+    "all_scores": {
+      "AgentTesla": 0.809167,
+      "Formbook": 0.779822,
+      "Lokibot": 0.776448,
+      "Redline": 0.379512,
+      "njRAT": 0.92482
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2e9779717b5e65c7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.946739,
+    "all_scores": {
+      "AgentTesla": 0.767442,
+      "Formbook": 0.734249,
+      "Lokibot": 0.733463,
+      "Redline": 0.350057,
+      "njRAT": 0.946739
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "00572c76c29eb5c5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.94392,
+    "all_scores": {
+      "AgentTesla": 0.756657,
+      "Formbook": 0.715857,
+      "Lokibot": 0.728519,
+      "Redline": 0.344501,
+      "njRAT": 0.94392
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0b8b5b72d071272d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.947326,
+    "all_scores": {
+      "AgentTesla": 0.746491,
+      "Formbook": 0.725606,
+      "Lokibot": 0.707692,
+      "Redline": 0.329447,
+      "njRAT": 0.947326
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "30464e3a6341ab56",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953457,
+    "all_scores": {
+      "AgentTesla": 0.73052,
+      "Formbook": 0.700248,
+      "Lokibot": 0.694316,
+      "Redline": 0.315616,
+      "njRAT": 0.953457
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "17d776972be1a94d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.946836,
+    "all_scores": {
+      "AgentTesla": 0.783421,
+      "Formbook": 0.752013,
+      "Lokibot": 0.753589,
+      "Redline": 0.39155,
+      "njRAT": 0.946836
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0b9e0e83acee7ab4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.949045,
+    "all_scores": {
+      "AgentTesla": 0.731896,
+      "Formbook": 0.711938,
+      "Lokibot": 0.691028,
+      "Redline": 0.310285,
+      "njRAT": 0.949045
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "26dc0b5d0a036bc6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.944755,
+    "all_scores": {
+      "AgentTesla": 0.762044,
+      "Formbook": 0.733519,
+      "Lokibot": 0.72782,
+      "Redline": 0.348416,
+      "njRAT": 0.944755
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0bce4456cd90916a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.964144,
+    "all_scores": {
+      "AgentTesla": 0.70613,
+      "Formbook": 0.676468,
+      "Lokibot": 0.672652,
+      "Redline": 0.327982,
+      "njRAT": 0.964144
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1aaccb0fb9bdb09c",
+    "predicted": "UNKNOWN",
+    "best_score": 0.917348,
+    "all_scores": {
+      "AgentTesla": 0.813365,
+      "Formbook": 0.779229,
+      "Lokibot": 0.777757,
+      "Redline": 0.354816,
+      "njRAT": 0.917348
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "25bee31eda4859c5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.984503,
+    "all_scores": {
+      "AgentTesla": 0.984503,
+      "Formbook": 0.952804,
+      "Lokibot": 0.957513,
+      "Redline": 0.502316,
+      "njRAT": 0.614052
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "11cd3f26566f6764",
+    "predicted": "UNKNOWN",
+    "best_score": 0.925704,
+    "all_scores": {
+      "AgentTesla": 0.790192,
+      "Formbook": 0.759821,
+      "Lokibot": 0.750579,
+      "Redline": 0.327237,
+      "njRAT": 0.925704
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2e8d845ff93006b6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.956435,
+    "all_scores": {
+      "AgentTesla": 0.734496,
+      "Formbook": 0.702977,
+      "Lokibot": 0.702902,
+      "Redline": 0.347329,
+      "njRAT": 0.956435
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "02b77d37adb383c0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.929165,
+    "all_scores": {
+      "AgentTesla": 0.81518,
+      "Formbook": 0.781762,
+      "Lokibot": 0.786863,
+      "Redline": 0.406116,
+      "njRAT": 0.929165
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "16bcbafb1b82edf9",
+    "predicted": "UNKNOWN",
+    "best_score": 0.923199,
+    "all_scores": {
+      "AgentTesla": 0.801916,
+      "Formbook": 0.769645,
+      "Lokibot": 0.764991,
+      "Redline": 0.346833,
+      "njRAT": 0.923199
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "133cc67873898c6d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.953202,
+    "all_scores": {
+      "AgentTesla": 0.740409,
+      "Formbook": 0.713759,
+      "Lokibot": 0.705961,
+      "Redline": 0.342239,
+      "njRAT": 0.953202
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1865415527381768",
+    "predicted": "UNKNOWN",
+    "best_score": 0.948022,
+    "all_scores": {
+      "AgentTesla": 0.746333,
+      "Formbook": 0.726642,
+      "Lokibot": 0.706384,
+      "Redline": 0.329603,
+      "njRAT": 0.948022
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0bd1e87e3d747c80",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950408,
+    "all_scores": {
+      "AgentTesla": 0.722697,
+      "Formbook": 0.699249,
+      "Lokibot": 0.684373,
+      "Redline": 0.310071,
+      "njRAT": 0.950408
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1f6eab0a17a2079a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.940633,
+    "all_scores": {
+      "AgentTesla": 0.783446,
+      "Formbook": 0.760615,
+      "Lokibot": 0.74818,
+      "Redline": 0.373097,
+      "njRAT": 0.940633
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1df31e1f77cb6e4a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.981363,
+    "all_scores": {
+      "AgentTesla": 0.981363,
+      "Formbook": 0.917333,
+      "Lokibot": 0.972489,
+      "Redline": 0.551985,
+      "njRAT": 0.607913
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "039ada905e9a9614",
+    "predicted": "UNKNOWN",
+    "best_score": 0.93615,
+    "all_scores": {
+      "AgentTesla": 0.772129,
+      "Formbook": 0.744342,
+      "Lokibot": 0.73567,
+      "Redline": 0.339012,
+      "njRAT": 0.93615
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "09fdf113d2237d42",
+    "predicted": "Redline",
+    "best_score": 0.992657,
+    "all_scores": {
+      "AgentTesla": 0.556064,
+      "Formbook": 0.500054,
+      "Lokibot": 0.643223,
+      "Redline": 0.992657,
+      "njRAT": 0.445679
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "29e405435c484b75",
+    "predicted": "UNKNOWN",
+    "best_score": 0.93827,
+    "all_scores": {
+      "AgentTesla": 0.733273,
+      "Formbook": 0.725393,
+      "Lokibot": 0.686018,
+      "Redline": 0.29816,
+      "njRAT": 0.93827
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "117c125d0da93d37",
+    "predicted": "UNKNOWN",
+    "best_score": 0.927936,
+    "all_scores": {
+      "AgentTesla": 0.801032,
+      "Formbook": 0.779656,
+      "Lokibot": 0.764266,
+      "Redline": 0.37369,
+      "njRAT": 0.927936
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "012aa6fb6b301840",
+    "predicted": "UNKNOWN",
+    "best_score": 0.948898,
+    "all_scores": {
+      "AgentTesla": 0.716255,
+      "Formbook": 0.699607,
+      "Lokibot": 0.674176,
+      "Redline": 0.300476,
+      "njRAT": 0.948898
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "0f38405fb6d42962",
+    "predicted": "Redline",
+    "best_score": 0.992751,
+    "all_scores": {
+      "AgentTesla": 0.555683,
+      "Formbook": 0.4988,
+      "Lokibot": 0.643388,
+      "Redline": 0.992751,
+      "njRAT": 0.440938
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "15e35f8cef3e3000",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951339,
+    "all_scores": {
+      "AgentTesla": 0.745917,
+      "Formbook": 0.714227,
+      "Lokibot": 0.711438,
+      "Redline": 0.334957,
+      "njRAT": 0.951339
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "18f40370e753a595",
+    "predicted": "Redline",
+    "best_score": 0.994067,
+    "all_scores": {
+      "AgentTesla": 0.567784,
+      "Formbook": 0.509908,
+      "Lokibot": 0.655402,
+      "Redline": 0.994067,
+      "njRAT": 0.438773
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2547a1216714102f",
+    "predicted": "Redline",
+    "best_score": 0.994243,
+    "all_scores": {
+      "AgentTesla": 0.600891,
+      "Formbook": 0.580979,
+      "Lokibot": 0.674955,
+      "Redline": 0.994243,
+      "njRAT": 0.402598
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2bff654321b0d824",
+    "predicted": "UNKNOWN",
+    "best_score": 0.948223,
+    "all_scores": {
+      "AgentTesla": 0.74188,
+      "Formbook": 0.713567,
+      "Lokibot": 0.707201,
+      "Redline": 0.329166,
+      "njRAT": 0.948223
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "250a996e7e9087ce",
+    "predicted": "UNKNOWN",
+    "best_score": 0.95222,
+    "all_scores": {
+      "AgentTesla": 0.769815,
+      "Formbook": 0.734046,
+      "Lokibot": 0.742177,
+      "Redline": 0.386959,
+      "njRAT": 0.95222
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1ae5cc2dcd9e104f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.939548,
+    "all_scores": {
+      "AgentTesla": 0.763355,
+      "Formbook": 0.737797,
+      "Lokibot": 0.727116,
+      "Redline": 0.341417,
+      "njRAT": 0.939548
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1fbe5f912ec66d5c",
+    "predicted": "AgentTesla",
+    "best_score": 0.988367,
+    "all_scores": {
+      "AgentTesla": 0.988367,
+      "Formbook": 0.965211,
+      "Lokibot": 0.965087,
+      "Redline": 0.557884,
+      "njRAT": 0.586495
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "1292f913ad900aa0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951706,
+    "all_scores": {
+      "AgentTesla": 0.740484,
+      "Formbook": 0.708913,
+      "Lokibot": 0.706056,
+      "Redline": 0.327977,
+      "njRAT": 0.951706
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "07fb0feb289480d8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.95296,
+    "all_scores": {
+      "AgentTesla": 0.730074,
+      "Formbook": 0.696494,
+      "Lokibot": 0.696222,
+      "Redline": 0.320066,
+      "njRAT": 0.95296
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "26e9444ed2f685a5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.949563,
+    "all_scores": {
+      "AgentTesla": 0.74316,
+      "Formbook": 0.714211,
+      "Lokibot": 0.710549,
+      "Redline": 0.346613,
+      "njRAT": 0.949563
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "16c9364fd15ae23d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.915412,
+    "all_scores": {
+      "AgentTesla": 0.817091,
+      "Formbook": 0.779858,
+      "Lokibot": 0.783884,
+      "Redline": 0.369366,
+      "njRAT": 0.915412
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "2ace2d1530c52e5e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.942187,
+    "all_scores": {
+      "AgentTesla": 0.78366,
+      "Formbook": 0.747186,
+      "Lokibot": 0.752576,
+      "Redline": 0.37069,
+      "njRAT": 0.942187
+    }
+  },
+  {
+    "true_family": "Dacic",
+    "sha256_prefix": "078504108d31efa6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.934293,
+    "all_scores": {
+      "AgentTesla": 0.774277,
+      "Formbook": 0.743955,
+      "Lokibot": 0.736229,
+      "Redline": 0.327356,
+      "njRAT": 0.934293
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "04f9b7c733888570",
+    "predicted": "UNKNOWN",
+    "best_score": 0.980292,
+    "all_scores": {
+      "AgentTesla": 0.938333,
+      "Formbook": 0.980292,
+      "Lokibot": 0.905236,
+      "Redline": 0.598928,
+      "njRAT": 0.641069
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "21655aa8370b5541",
+    "predicted": "UNKNOWN",
+    "best_score": 0.979458,
+    "all_scores": {
+      "AgentTesla": 0.944556,
+      "Formbook": 0.979458,
+      "Lokibot": 0.917801,
+      "Redline": 0.628251,
+      "njRAT": 0.637574
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0e2c3e6d62c9a7aa",
+    "predicted": "UNKNOWN",
+    "best_score": 0.931231,
+    "all_scores": {
+      "AgentTesla": 0.855406,
+      "Formbook": 0.931231,
+      "Lokibot": 0.775137,
+      "Redline": 0.324633,
+      "njRAT": 0.651132
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "1b51b8063a026dbe",
+    "predicted": "UNKNOWN",
+    "best_score": 0.915451,
+    "all_scores": {
+      "AgentTesla": 0.828873,
+      "Formbook": 0.915451,
+      "Lokibot": 0.743505,
+      "Redline": 0.289034,
+      "njRAT": 0.631576
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2f5fa112a3851103",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96688,
+    "all_scores": {
+      "AgentTesla": 0.920811,
+      "Formbook": 0.96688,
+      "Lokibot": 0.875268,
+      "Redline": 0.525644,
+      "njRAT": 0.699823
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0de34744451ce4c0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.977626,
+    "all_scores": {
+      "AgentTesla": 0.968188,
+      "Formbook": 0.977626,
+      "Lokibot": 0.94952,
+      "Redline": 0.640274,
+      "njRAT": 0.656924
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "174df60ab76cf134",
+    "predicted": "UNKNOWN",
+    "best_score": 0.892155,
+    "all_scores": {
+      "AgentTesla": 0.809946,
+      "Formbook": 0.892155,
+      "Lokibot": 0.724618,
+      "Redline": 0.284161,
+      "njRAT": 0.700871
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "132622a40b458915",
+    "predicted": "UNKNOWN",
+    "best_score": 0.9192,
+    "all_scores": {
+      "AgentTesla": 0.901169,
+      "Formbook": 0.9192,
+      "Lokibot": 0.845847,
+      "Redline": 0.40641,
+      "njRAT": 0.80549
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "26c06f04308b5fd5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.883441,
+    "all_scores": {
+      "AgentTesla": 0.800227,
+      "Formbook": 0.883441,
+      "Lokibot": 0.711644,
+      "Redline": 0.254342,
+      "njRAT": 0.693963
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "1b64c00768c6add7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.926114,
+    "all_scores": {
+      "AgentTesla": 0.850117,
+      "Formbook": 0.926114,
+      "Lokibot": 0.767779,
+      "Redline": 0.307476,
+      "njRAT": 0.653091
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0610f6a98f5ca3ee",
+    "predicted": "UNKNOWN",
+    "best_score": 0.926273,
+    "all_scores": {
+      "AgentTesla": 0.849992,
+      "Formbook": 0.926273,
+      "Lokibot": 0.768419,
+      "Redline": 0.311624,
+      "njRAT": 0.656726
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0e8c06b0ceceecca",
+    "predicted": "UNKNOWN",
+    "best_score": 0.891993,
+    "all_scores": {
+      "AgentTesla": 0.804722,
+      "Formbook": 0.891993,
+      "Lokibot": 0.717333,
+      "Redline": 0.269622,
+      "njRAT": 0.67896
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2269785d0f9d3c22",
+    "predicted": "UNKNOWN",
+    "best_score": 0.923119,
+    "all_scores": {
+      "AgentTesla": 0.84241,
+      "Formbook": 0.923119,
+      "Lokibot": 0.757304,
+      "Redline": 0.294005,
+      "njRAT": 0.633619
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "23d1aa73ac67b592",
+    "predicted": "UNKNOWN",
+    "best_score": 0.979177,
+    "all_scores": {
+      "AgentTesla": 0.965493,
+      "Formbook": 0.979177,
+      "Lokibot": 0.943323,
+      "Redline": 0.628117,
+      "njRAT": 0.668216
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0c21520790a4f916",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950973,
+    "all_scores": {
+      "AgentTesla": 0.876743,
+      "Formbook": 0.950973,
+      "Lokibot": 0.800775,
+      "Redline": 0.351126,
+      "njRAT": 0.607286
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2b971408ea4d6198",
+    "predicted": "UNKNOWN",
+    "best_score": 0.926794,
+    "all_scores": {
+      "AgentTesla": 0.849774,
+      "Formbook": 0.926794,
+      "Lokibot": 0.768342,
+      "Redline": 0.313662,
+      "njRAT": 0.652052
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "1a6cc93f6be5748d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.978837,
+    "all_scores": {
+      "AgentTesla": 0.967447,
+      "Formbook": 0.978837,
+      "Lokibot": 0.947502,
+      "Redline": 0.633868,
+      "njRAT": 0.656219
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "179f811dfdfff3df",
+    "predicted": "UNKNOWN",
+    "best_score": 0.925256,
+    "all_scores": {
+      "AgentTesla": 0.841083,
+      "Formbook": 0.925256,
+      "Lokibot": 0.75957,
+      "Redline": 0.314804,
+      "njRAT": 0.633532
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2a406608a0ffaba2",
+    "predicted": "UNKNOWN",
+    "best_score": 0.921788,
+    "all_scores": {
+      "AgentTesla": 0.841937,
+      "Formbook": 0.921788,
+      "Lokibot": 0.758868,
+      "Redline": 0.310113,
+      "njRAT": 0.65812
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "104a969604a948f3",
+    "predicted": "UNKNOWN",
+    "best_score": 0.972594,
+    "all_scores": {
+      "AgentTesla": 0.925595,
+      "Formbook": 0.972594,
+      "Lokibot": 0.88198,
+      "Redline": 0.538708,
+      "njRAT": 0.683003
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "10bdbeb8894f821a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.914667,
+    "all_scores": {
+      "AgentTesla": 0.839034,
+      "Formbook": 0.914667,
+      "Lokibot": 0.755294,
+      "Redline": 0.292193,
+      "njRAT": 0.675972
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "0000025c5ee1d670",
+    "predicted": "UNKNOWN",
+    "best_score": 0.970858,
+    "all_scores": {
+      "AgentTesla": 0.954356,
+      "Formbook": 0.970858,
+      "Lokibot": 0.914817,
+      "Redline": 0.515493,
+      "njRAT": 0.714549
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2b8df3352f04c06f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.924306,
+    "all_scores": {
+      "AgentTesla": 0.84469,
+      "Formbook": 0.924306,
+      "Lokibot": 0.7602,
+      "Redline": 0.297843,
+      "njRAT": 0.637604
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "14bd8dbe7b00ada4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.874497,
+    "all_scores": {
+      "AgentTesla": 0.792672,
+      "Formbook": 0.874497,
+      "Lokibot": 0.705887,
+      "Redline": 0.262567,
+      "njRAT": 0.718099
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "11fdc5a003d62753",
+    "predicted": "UNKNOWN",
+    "best_score": 0.910783,
+    "all_scores": {
+      "AgentTesla": 0.909455,
+      "Formbook": 0.910783,
+      "Lokibot": 0.860525,
+      "Redline": 0.41452,
+      "njRAT": 0.823782
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "2c2f9d89c0aa43ae",
+    "predicted": "UNKNOWN",
+    "best_score": 0.970899,
+    "all_scores": {
+      "AgentTesla": 0.954449,
+      "Formbook": 0.970899,
+      "Lokibot": 0.914057,
+      "Redline": 0.509796,
+      "njRAT": 0.712614
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "12d7296fa8ee9586",
+    "predicted": "UNKNOWN",
+    "best_score": 0.956448,
+    "all_scores": {
+      "AgentTesla": 0.90224,
+      "Formbook": 0.810141,
+      "Lokibot": 0.956448,
+      "Redline": 0.75926,
+      "njRAT": 0.546483
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "190b66d218ef0d0b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.853936,
+    "all_scores": {
+      "AgentTesla": 0.779586,
+      "Formbook": 0.676147,
+      "Lokibot": 0.847256,
+      "Redline": 0.853936,
+      "njRAT": 0.696607
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "07f678a2738900d3",
+    "predicted": "UNKNOWN",
+    "best_score": 0.981584,
+    "all_scores": {
+      "AgentTesla": 0.958777,
+      "Formbook": 0.981584,
+      "Lokibot": 0.936613,
+      "Redline": 0.642725,
+      "njRAT": 0.636071
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2f6f8d08fcf273fa",
+    "predicted": "UNKNOWN",
+    "best_score": 0.965692,
+    "all_scores": {
+      "AgentTesla": 0.937856,
+      "Formbook": 0.860859,
+      "Lokibot": 0.965692,
+      "Redline": 0.67281,
+      "njRAT": 0.451263
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "180f09c1346f69b5",
+    "predicted": "UNKNOWN",
+    "best_score": 0.974612,
+    "all_scores": {
+      "AgentTesla": 0.955003,
+      "Formbook": 0.895397,
+      "Lokibot": 0.974612,
+      "Redline": 0.676043,
+      "njRAT": 0.47696
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2098668fe81c2be5",
+    "predicted": "Lokibot",
+    "best_score": 0.995961,
+    "all_scores": {
+      "AgentTesla": 0.991518,
+      "Formbook": 0.950969,
+      "Lokibot": 0.995961,
+      "Redline": 0.674913,
+      "njRAT": 0.635375
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2f97ffedeb715868",
+    "predicted": "UNKNOWN",
+    "best_score": 0.964226,
+    "all_scores": {
+      "AgentTesla": 0.936808,
+      "Formbook": 0.855588,
+      "Lokibot": 0.964226,
+      "Redline": 0.658484,
+      "njRAT": 0.449935
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "242f11561bddce20",
+    "predicted": "UNKNOWN",
+    "best_score": 0.966448,
+    "all_scores": {
+      "AgentTesla": 0.934753,
+      "Formbook": 0.852819,
+      "Lokibot": 0.966448,
+      "Redline": 0.683272,
+      "njRAT": 0.468525
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "082c753b9065e2c0",
+    "predicted": "Lokibot",
+    "best_score": 0.993765,
+    "all_scores": {
+      "AgentTesla": 0.992813,
+      "Formbook": 0.956406,
+      "Lokibot": 0.993765,
+      "Redline": 0.6684,
+      "njRAT": 0.656106
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "1da52d43ea75756d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.894804,
+    "all_scores": {
+      "AgentTesla": 0.891899,
+      "Formbook": 0.837661,
+      "Lokibot": 0.894804,
+      "Redline": 0.622452,
+      "njRAT": 0.874439
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "27c81964a136a6fc",
+    "predicted": "UNKNOWN",
+    "best_score": 0.954581,
+    "all_scores": {
+      "AgentTesla": 0.950265,
+      "Formbook": 0.937625,
+      "Lokibot": 0.954581,
+      "Redline": 0.725317,
+      "njRAT": 0.702014
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2d12bedd8d6cee6c",
+    "predicted": "Formbook",
+    "best_score": 0.991852,
+    "all_scores": {
+      "AgentTesla": 0.973874,
+      "Formbook": 0.991852,
+      "Lokibot": 0.940733,
+      "Redline": 0.554203,
+      "njRAT": 0.555948
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "08e14938644b60af",
+    "predicted": "AgentTesla",
+    "best_score": 0.993816,
+    "all_scores": {
+      "AgentTesla": 0.993816,
+      "Formbook": 0.963652,
+      "Lokibot": 0.991378,
+      "Redline": 0.65642,
+      "njRAT": 0.631991
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "23f9cab9765f1e0d",
+    "predicted": "AgentTesla",
+    "best_score": 0.98757,
+    "all_scores": {
+      "AgentTesla": 0.98757,
+      "Formbook": 0.966769,
+      "Lokibot": 0.983573,
+      "Redline": 0.673967,
+      "njRAT": 0.612441
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "20dfa318d7b22268",
+    "predicted": "UNKNOWN",
+    "best_score": 0.971677,
+    "all_scores": {
+      "AgentTesla": 0.971677,
+      "Formbook": 0.912448,
+      "Lokibot": 0.969875,
+      "Redline": 0.641647,
+      "njRAT": 0.78024
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2e5b8a1ed53e25c5",
+    "predicted": "AgentTesla",
+    "best_score": 0.988776,
+    "all_scores": {
+      "AgentTesla": 0.988776,
+      "Formbook": 0.947925,
+      "Lokibot": 0.969042,
+      "Redline": 0.531912,
+      "njRAT": 0.607268
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "0e25b5299c3df59e",
+    "predicted": "njRAT",
+    "best_score": 0.988407,
+    "all_scores": {
+      "AgentTesla": 0.588781,
+      "Formbook": 0.546676,
+      "Lokibot": 0.561865,
+      "Redline": 0.378911,
+      "njRAT": 0.988407
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2623649c5fb65c6b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.975772,
+    "all_scores": {
+      "AgentTesla": 0.706059,
+      "Formbook": 0.652641,
+      "Lokibot": 0.680815,
+      "Redline": 0.354134,
+      "njRAT": 0.975772
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "1441b168107cb5a3",
+    "predicted": "AgentTesla",
+    "best_score": 0.994202,
+    "all_scores": {
+      "AgentTesla": 0.994202,
+      "Formbook": 0.960881,
+      "Lokibot": 0.99154,
+      "Redline": 0.649695,
+      "njRAT": 0.634837
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2775c8d140ff4b9a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.973432,
+    "all_scores": {
+      "AgentTesla": 0.945622,
+      "Formbook": 0.8698,
+      "Lokibot": 0.973432,
+      "Redline": 0.682158,
+      "njRAT": 0.504351
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "0ee11589280de3dd",
+    "predicted": "Lokibot",
+    "best_score": 0.994404,
+    "all_scores": {
+      "AgentTesla": 0.992733,
+      "Formbook": 0.955336,
+      "Lokibot": 0.994404,
+      "Redline": 0.670116,
+      "njRAT": 0.654737
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2efdfea9644c378b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.980191,
+    "all_scores": {
+      "AgentTesla": 0.963093,
+      "Formbook": 0.980191,
+      "Lokibot": 0.943609,
+      "Redline": 0.6328,
+      "njRAT": 0.636441
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2b19bb425c2b5cca",
+    "predicted": "UNKNOWN",
+    "best_score": 0.900949,
+    "all_scores": {
+      "AgentTesla": 0.760297,
+      "Formbook": 0.677739,
+      "Lokibot": 0.758901,
+      "Redline": 0.39492,
+      "njRAT": 0.900949
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "27d99e06337e063a",
+    "predicted": "Formbook",
+    "best_score": 0.991333,
+    "all_scores": {
+      "AgentTesla": 0.933108,
+      "Formbook": 0.991333,
+      "Lokibot": 0.889448,
+      "Redline": 0.535185,
+      "njRAT": 0.576074
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "202577211d7d1710",
+    "predicted": "UNKNOWN",
+    "best_score": 0.877615,
+    "all_scores": {
+      "AgentTesla": 0.837202,
+      "Formbook": 0.761054,
+      "Lokibot": 0.877615,
+      "Redline": 0.80481,
+      "njRAT": 0.818774
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "1c2ca6fa0658d5c7",
+    "predicted": "Lokibot",
+    "best_score": 0.994621,
+    "all_scores": {
+      "AgentTesla": 0.992071,
+      "Formbook": 0.952789,
+      "Lokibot": 0.994621,
+      "Redline": 0.671742,
+      "njRAT": 0.660253
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "16bb974c71635d85",
+    "predicted": "Formbook",
+    "best_score": 0.99184,
+    "all_scores": {
+      "AgentTesla": 0.963154,
+      "Formbook": 0.99184,
+      "Lokibot": 0.928908,
+      "Redline": 0.569145,
+      "njRAT": 0.545003
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "251b8eecc957d32f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.968371,
+    "all_scores": {
+      "AgentTesla": 0.935562,
+      "Formbook": 0.853759,
+      "Lokibot": 0.968371,
+      "Redline": 0.692878,
+      "njRAT": 0.490037
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2c4126cb0056175c",
+    "predicted": "UNKNOWN",
+    "best_score": 0.910793,
+    "all_scores": {
+      "AgentTesla": 0.910793,
+      "Formbook": 0.874673,
+      "Lokibot": 0.876097,
+      "Redline": 0.470672,
+      "njRAT": 0.87147
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "30677a0487ca9917",
+    "predicted": "AgentTesla",
+    "best_score": 0.986489,
+    "all_scores": {
+      "AgentTesla": 0.986489,
+      "Formbook": 0.961345,
+      "Lokibot": 0.985377,
+      "Redline": 0.685043,
+      "njRAT": 0.616473
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "038434e618075554",
+    "predicted": "UNKNOWN",
+    "best_score": 0.973902,
+    "all_scores": {
+      "AgentTesla": 0.956383,
+      "Formbook": 0.870939,
+      "Lokibot": 0.973902,
+      "Redline": 0.629717,
+      "njRAT": 0.622586
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "057b5a69c942a24a",
+    "predicted": "Lokibot",
+    "best_score": 0.994314,
+    "all_scores": {
+      "AgentTesla": 0.992465,
+      "Formbook": 0.954293,
+      "Lokibot": 0.994314,
+      "Redline": 0.669947,
+      "njRAT": 0.65782
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "01dc863e099966c6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.97244,
+    "all_scores": {
+      "AgentTesla": 0.957487,
+      "Formbook": 0.883685,
+      "Lokibot": 0.97244,
+      "Redline": 0.634431,
+      "njRAT": 0.505728
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "1a3c864ad6aeeaa1",
+    "predicted": "Lokibot",
+    "best_score": 0.994066,
+    "all_scores": {
+      "AgentTesla": 0.9939,
+      "Formbook": 0.956463,
+      "Lokibot": 0.994066,
+      "Redline": 0.655785,
+      "njRAT": 0.649145
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "02efe82b255c46ad",
+    "predicted": "UNKNOWN",
+    "best_score": 0.849563,
+    "all_scores": {
+      "AgentTesla": 0.825248,
+      "Formbook": 0.718012,
+      "Lokibot": 0.849563,
+      "Redline": 0.501363,
+      "njRAT": 0.794597
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "30aa6ed4bf80553d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.967121,
+    "all_scores": {
+      "AgentTesla": 0.91336,
+      "Formbook": 0.967121,
+      "Lokibot": 0.843251,
+      "Redline": 0.382758,
+      "njRAT": 0.627184
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "01a051c70476ff3f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.979455,
+    "all_scores": {
+      "AgentTesla": 0.942503,
+      "Formbook": 0.979455,
+      "Lokibot": 0.922826,
+      "Redline": 0.631617,
+      "njRAT": 0.502644
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "3180620ee9921fa4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96996,
+    "all_scores": {
+      "AgentTesla": 0.939693,
+      "Formbook": 0.859004,
+      "Lokibot": 0.96996,
+      "Redline": 0.686261,
+      "njRAT": 0.491516
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2b05753bc632ec1b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.936463,
+    "all_scores": {
+      "AgentTesla": 0.911949,
+      "Formbook": 0.854077,
+      "Lokibot": 0.936463,
+      "Redline": 0.711628,
+      "njRAT": 0.787277
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "18b15672bacee7b7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.982445,
+    "all_scores": {
+      "AgentTesla": 0.661064,
+      "Formbook": 0.612403,
+      "Lokibot": 0.63251,
+      "Redline": 0.328619,
+      "njRAT": 0.982445
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "2834c7716f191536",
+    "predicted": "Lokibot",
+    "best_score": 0.995632,
+    "all_scores": {
+      "AgentTesla": 0.992602,
+      "Formbook": 0.953077,
+      "Lokibot": 0.995632,
+      "Redline": 0.667541,
+      "njRAT": 0.639695
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "3135420881e7d406",
+    "predicted": "Lokibot",
+    "best_score": 0.994259,
+    "all_scores": {
+      "AgentTesla": 0.992642,
+      "Formbook": 0.955418,
+      "Lokibot": 0.994259,
+      "Redline": 0.670497,
+      "njRAT": 0.656642
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2a4e0bfefe7b6b2a",
+    "predicted": "Redline",
+    "best_score": 0.993607,
+    "all_scores": {
+      "AgentTesla": 0.515864,
+      "Formbook": 0.475668,
+      "Lokibot": 0.605465,
+      "Redline": 0.993607,
+      "njRAT": 0.368529
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "01a706d0d6e170d1",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96838,
+    "all_scores": {
+      "AgentTesla": 0.920556,
+      "Formbook": 0.822,
+      "Lokibot": 0.96838,
+      "Redline": 0.752981,
+      "njRAT": 0.598266
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2d9020f575de6f86",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950466,
+    "all_scores": {
+      "AgentTesla": 0.891313,
+      "Formbook": 0.792267,
+      "Lokibot": 0.950466,
+      "Redline": 0.798298,
+      "njRAT": 0.543153
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2a4ab7936bf50e89",
+    "predicted": "UNKNOWN",
+    "best_score": 0.965163,
+    "all_scores": {
+      "AgentTesla": 0.915529,
+      "Formbook": 0.814458,
+      "Lokibot": 0.965163,
+      "Redline": 0.755042,
+      "njRAT": 0.600772
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "20b011e6cd045f3d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.926348,
+    "all_scores": {
+      "AgentTesla": 0.862043,
+      "Formbook": 0.752995,
+      "Lokibot": 0.926348,
+      "Redline": 0.828989,
+      "njRAT": 0.5733
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "275d1d89926c665e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955843,
+    "all_scores": {
+      "AgentTesla": 0.904186,
+      "Formbook": 0.799777,
+      "Lokibot": 0.955843,
+      "Redline": 0.716577,
+      "njRAT": 0.521384
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "28839ba22be16cab",
+    "predicted": "UNKNOWN",
+    "best_score": 0.916295,
+    "all_scores": {
+      "AgentTesla": 0.574737,
+      "Formbook": 0.46467,
+      "Lokibot": 0.66549,
+      "Redline": 0.916295,
+      "njRAT": 0.583988
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2147a7d3a63e11d9",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96838,
+    "all_scores": {
+      "AgentTesla": 0.920556,
+      "Formbook": 0.822,
+      "Lokibot": 0.96838,
+      "Redline": 0.752981,
+      "njRAT": 0.598266
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "24471f2fd20e7386",
+    "predicted": "UNKNOWN",
+    "best_score": 0.931227,
+    "all_scores": {
+      "AgentTesla": 0.881712,
+      "Formbook": 0.763037,
+      "Lokibot": 0.931227,
+      "Redline": 0.728335,
+      "njRAT": 0.6132
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "088046b6c8b713d1",
+    "predicted": "UNKNOWN",
+    "best_score": 0.963107,
+    "all_scores": {
+      "AgentTesla": 0.910736,
+      "Formbook": 0.813565,
+      "Lokibot": 0.963107,
+      "Redline": 0.773712,
+      "njRAT": 0.568934
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "16bba5264817b4ad",
+    "predicted": "UNKNOWN",
+    "best_score": 0.899854,
+    "all_scores": {
+      "AgentTesla": 0.835406,
+      "Formbook": 0.708534,
+      "Lokibot": 0.899854,
+      "Redline": 0.765777,
+      "njRAT": 0.577375
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2ada8acbe17b10f6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.880543,
+    "all_scores": {
+      "AgentTesla": 0.810524,
+      "Formbook": 0.6896,
+      "Lokibot": 0.880543,
+      "Redline": 0.80415,
+      "njRAT": 0.562972
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0f69edac6f264165",
+    "predicted": "UNKNOWN",
+    "best_score": 0.892808,
+    "all_scores": {
+      "AgentTesla": 0.835065,
+      "Formbook": 0.718624,
+      "Lokibot": 0.892808,
+      "Redline": 0.789859,
+      "njRAT": 0.687665
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0eed6bcd7b59fcd9",
+    "predicted": "UNKNOWN",
+    "best_score": 0.890617,
+    "all_scores": {
+      "AgentTesla": 0.745295,
+      "Formbook": 0.634323,
+      "Lokibot": 0.829768,
+      "Redline": 0.890617,
+      "njRAT": 0.547974
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0aaee74a22926e07",
+    "predicted": "UNKNOWN",
+    "best_score": 0.896586,
+    "all_scores": {
+      "AgentTesla": 0.795283,
+      "Formbook": 0.690073,
+      "Lokibot": 0.809207,
+      "Redline": 0.573429,
+      "njRAT": 0.896586
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0892ba35a2832608",
+    "predicted": "UNKNOWN",
+    "best_score": 0.963107,
+    "all_scores": {
+      "AgentTesla": 0.91229,
+      "Formbook": 0.816222,
+      "Lokibot": 0.963107,
+      "Redline": 0.77451,
+      "njRAT": 0.600458
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0f894e06e5216382",
+    "predicted": "UNKNOWN",
+    "best_score": 0.938015,
+    "all_scores": {
+      "AgentTesla": 0.873569,
+      "Formbook": 0.771318,
+      "Lokibot": 0.938015,
+      "Redline": 0.799803,
+      "njRAT": 0.500984
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0700ec7044f3b532",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955286,
+    "all_scores": {
+      "AgentTesla": 0.901479,
+      "Formbook": 0.80271,
+      "Lokibot": 0.955286,
+      "Redline": 0.777447,
+      "njRAT": 0.614605
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "1769956679948e0b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.893662,
+    "all_scores": {
+      "AgentTesla": 0.851908,
+      "Formbook": 0.724008,
+      "Lokibot": 0.893662,
+      "Redline": 0.67108,
+      "njRAT": 0.739899
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0efc49b3bae8a8c4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951678,
+    "all_scores": {
+      "AgentTesla": 0.893106,
+      "Formbook": 0.794966,
+      "Lokibot": 0.951678,
+      "Redline": 0.798726,
+      "njRAT": 0.547483
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0e2ca3a86d3a4b2d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.886869,
+    "all_scores": {
+      "AgentTesla": 0.818463,
+      "Formbook": 0.698859,
+      "Lokibot": 0.886869,
+      "Redline": 0.806778,
+      "njRAT": 0.584041
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "08aa67144bdd7fc4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.963146,
+    "all_scores": {
+      "AgentTesla": 0.910781,
+      "Formbook": 0.814391,
+      "Lokibot": 0.963146,
+      "Redline": 0.776361,
+      "njRAT": 0.570141
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "03f7c462730bd344",
+    "predicted": "UNKNOWN",
+    "best_score": 0.905683,
+    "all_scores": {
+      "AgentTesla": 0.845647,
+      "Formbook": 0.728897,
+      "Lokibot": 0.905683,
+      "Redline": 0.781815,
+      "njRAT": 0.608911
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "1fe6ca4f2864852e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.921156,
+    "all_scores": {
+      "AgentTesla": 0.921156,
+      "Formbook": 0.844093,
+      "Lokibot": 0.918622,
+      "Redline": 0.536093,
+      "njRAT": 0.782443
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "26ee5ecb55714d30",
+    "predicted": "UNKNOWN",
+    "best_score": 0.878182,
+    "all_scores": {
+      "AgentTesla": 0.798554,
+      "Formbook": 0.68678,
+      "Lokibot": 0.878182,
+      "Redline": 0.869724,
+      "njRAT": 0.519428
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0769315bba7b5760",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955792,
+    "all_scores": {
+      "AgentTesla": 0.905692,
+      "Formbook": 0.804296,
+      "Lokibot": 0.955792,
+      "Redline": 0.70363,
+      "njRAT": 0.499146
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2aa4502d479f435b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.875465,
+    "all_scores": {
+      "AgentTesla": 0.803754,
+      "Formbook": 0.683117,
+      "Lokibot": 0.875465,
+      "Redline": 0.816739,
+      "njRAT": 0.570864
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0284f96644d60bf3",
+    "predicted": "UNKNOWN",
+    "best_score": 0.896739,
+    "all_scores": {
+      "AgentTesla": 0.825692,
+      "Formbook": 0.739711,
+      "Lokibot": 0.896739,
+      "Redline": 0.871389,
+      "njRAT": 0.442701
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "1852ee4bc2145b7c",
+    "predicted": "UNKNOWN",
+    "best_score": 0.969508,
+    "all_scores": {
+      "AgentTesla": 0.922387,
+      "Formbook": 0.824353,
+      "Lokibot": 0.969508,
+      "Redline": 0.745165,
+      "njRAT": 0.585947
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2ba03b3b0a7c804b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.855087,
+    "all_scores": {
+      "AgentTesla": 0.800677,
+      "Formbook": 0.690684,
+      "Lokibot": 0.855087,
+      "Redline": 0.731887,
+      "njRAT": 0.592889
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0b902669e6bd4c0e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.964065,
+    "all_scores": {
+      "AgentTesla": 0.913745,
+      "Formbook": 0.813588,
+      "Lokibot": 0.964065,
+      "Redline": 0.765685,
+      "njRAT": 0.601664
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "04f0be09da2edb51",
+    "predicted": "UNKNOWN",
+    "best_score": 0.894556,
+    "all_scores": {
+      "AgentTesla": 0.829383,
+      "Formbook": 0.698474,
+      "Lokibot": 0.894556,
+      "Redline": 0.762401,
+      "njRAT": 0.587773
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2de843e3843c3f56",
+    "predicted": "UNKNOWN",
+    "best_score": 0.948727,
+    "all_scores": {
+      "AgentTesla": 0.892368,
+      "Formbook": 0.786732,
+      "Lokibot": 0.948727,
+      "Redline": 0.738194,
+      "njRAT": 0.506393
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "050e54ed269fe74d",
+    "predicted": "UNKNOWN",
+    "best_score": 0.941728,
+    "all_scores": {
+      "AgentTesla": 0.938176,
+      "Formbook": 0.857803,
+      "Lokibot": 0.941728,
+      "Redline": 0.570759,
+      "njRAT": 0.726138
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0f1c6993c8e12fb7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.967435,
+    "all_scores": {
+      "AgentTesla": 0.918777,
+      "Formbook": 0.820339,
+      "Lokibot": 0.967435,
+      "Redline": 0.75767,
+      "njRAT": 0.59408
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "112a95a4d71a4f67",
+    "predicted": "UNKNOWN",
+    "best_score": 0.882148,
+    "all_scores": {
+      "AgentTesla": 0.816146,
+      "Formbook": 0.677999,
+      "Lokibot": 0.882148,
+      "Redline": 0.727003,
+      "njRAT": 0.59098
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "14c2a2ad49f08dec",
+    "predicted": "UNKNOWN",
+    "best_score": 0.931173,
+    "all_scores": {
+      "AgentTesla": 0.86668,
+      "Formbook": 0.754299,
+      "Lokibot": 0.931173,
+      "Redline": 0.789156,
+      "njRAT": 0.533343
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "000516c28c42ecfa",
+    "predicted": "UNKNOWN",
+    "best_score": 0.929426,
+    "all_scores": {
+      "AgentTesla": 0.880263,
+      "Formbook": 0.768518,
+      "Lokibot": 0.929426,
+      "Redline": 0.719859,
+      "njRAT": 0.535797
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0dfb2b9806fa1c5a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.883797,
+    "all_scores": {
+      "AgentTesla": 0.807306,
+      "Formbook": 0.703805,
+      "Lokibot": 0.883797,
+      "Redline": 0.852322,
+      "njRAT": 0.419121
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "063bdacd11cd94f8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.95249,
+    "all_scores": {
+      "AgentTesla": 0.898003,
+      "Formbook": 0.790064,
+      "Lokibot": 0.95249,
+      "Redline": 0.72968,
+      "njRAT": 0.534247
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0fe82d10bd3a8156",
+    "predicted": "UNKNOWN",
+    "best_score": 0.96616,
+    "all_scores": {
+      "AgentTesla": 0.91762,
+      "Formbook": 0.823464,
+      "Lokibot": 0.96616,
+      "Redline": 0.742288,
+      "njRAT": 0.547179
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "237f30c9cbb71ea8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.917948,
+    "all_scores": {
+      "AgentTesla": 0.868208,
+      "Formbook": 0.754199,
+      "Lokibot": 0.917948,
+      "Redline": 0.74697,
+      "njRAT": 0.655395
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0e2695c0e13c0c42",
+    "predicted": "UNKNOWN",
+    "best_score": 0.887882,
+    "all_scores": {
+      "AgentTesla": 0.824608,
+      "Formbook": 0.692873,
+      "Lokibot": 0.887882,
+      "Redline": 0.752316,
+      "njRAT": 0.60872
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "2e229f0a4035b58e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957509,
+    "all_scores": {
+      "AgentTesla": 0.906831,
+      "Formbook": 0.804706,
+      "Lokibot": 0.957509,
+      "Redline": 0.716582,
+      "njRAT": 0.525124
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "1d582805e56887d8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.951503,
+    "all_scores": {
+      "AgentTesla": 0.943783,
+      "Formbook": 0.87107,
+      "Lokibot": 0.951503,
+      "Redline": 0.645214,
+      "njRAT": 0.794396
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "098393055d675f10",
+    "predicted": "UNKNOWN",
+    "best_score": 0.946637,
+    "all_scores": {
+      "AgentTesla": 0.888609,
+      "Formbook": 0.778776,
+      "Lokibot": 0.946637,
+      "Redline": 0.742837,
+      "njRAT": 0.530064
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0ca15ac24cd26ecd",
+    "predicted": "UNKNOWN",
+    "best_score": 0.955447,
+    "all_scores": {
+      "AgentTesla": 0.90089,
+      "Formbook": 0.805771,
+      "Lokibot": 0.955447,
+      "Redline": 0.774632,
+      "njRAT": 0.55747
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0f42edd76f7309fb",
+    "predicted": "UNKNOWN",
+    "best_score": 0.957568,
+    "all_scores": {
+      "AgentTesla": 0.906459,
+      "Formbook": 0.80332,
+      "Lokibot": 0.957568,
+      "Redline": 0.721606,
+      "njRAT": 0.534303
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "209b858f3b9abafb",
+    "predicted": "UNKNOWN",
+    "best_score": 0.963107,
+    "all_scores": {
+      "AgentTesla": 0.910736,
+      "Formbook": 0.813565,
+      "Lokibot": 0.963107,
+      "Redline": 0.773712,
+      "njRAT": 0.568934
+    }
+  },
+  {
+    "true_family": "Smokeloader",
+    "sha256_prefix": "0dfc65d1747e97aa",
+    "predicted": "Redline",
+    "best_score": 0.987254,
+    "all_scores": {
+      "AgentTesla": 0.660836,
+      "Formbook": 0.596627,
+      "Lokibot": 0.745785,
+      "Redline": 0.987254,
+      "njRAT": 0.39032
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "380b8a70cef96049",
+    "predicted": "UNKNOWN",
+    "best_score": 0.912031,
+    "all_scores": {
+      "AgentTesla": 0.843246,
+      "Formbook": 0.738922,
+      "Lokibot": 0.912031,
+      "Redline": 0.834789,
+      "njRAT": 0.529783
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "5d08881aa3a04ff8",
+    "predicted": "UNKNOWN",
+    "best_score": 0.888717,
+    "all_scores": {
+      "AgentTesla": 0.805422,
+      "Formbook": 0.888717,
+      "Lokibot": 0.719277,
+      "Redline": 0.278723,
+      "njRAT": 0.701064
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "49939225440e534f",
+    "predicted": "UNKNOWN",
+    "best_score": 0.950365,
+    "all_scores": {
+      "AgentTesla": 0.903228,
+      "Formbook": 0.950365,
+      "Lokibot": 0.8607,
+      "Redline": 0.543848,
+      "njRAT": 0.739229
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "325e486140498c76",
+    "predicted": "UNKNOWN",
+    "best_score": 0.895164,
+    "all_scores": {
+      "AgentTesla": 0.807968,
+      "Formbook": 0.895164,
+      "Lokibot": 0.720575,
+      "Redline": 0.273561,
+      "njRAT": 0.675238
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "51d66452c150941c",
+    "predicted": "UNKNOWN",
+    "best_score": 0.922894,
+    "all_scores": {
+      "AgentTesla": 0.845488,
+      "Formbook": 0.922894,
+      "Lokibot": 0.762381,
+      "Redline": 0.304059,
+      "njRAT": 0.655529
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "4c063e82ed6cd3c6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.881437,
+    "all_scores": {
+      "AgentTesla": 0.798447,
+      "Formbook": 0.881437,
+      "Lokibot": 0.711268,
+      "Redline": 0.263773,
+      "njRAT": 0.704359
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "4c5fddac3505a263",
+    "predicted": "UNKNOWN",
+    "best_score": 0.942327,
+    "all_scores": {
+      "AgentTesla": 0.863347,
+      "Formbook": 0.942327,
+      "Lokibot": 0.783626,
+      "Redline": 0.328255,
+      "njRAT": 0.604657
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "5c666d42ddbf63e7",
+    "predicted": "UNKNOWN",
+    "best_score": 0.924477,
+    "all_scores": {
+      "AgentTesla": 0.876704,
+      "Formbook": 0.924477,
+      "Lokibot": 0.801329,
+      "Redline": 0.333011,
+      "njRAT": 0.732226
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "54ad7bc778ce3705",
+    "predicted": "UNKNOWN",
+    "best_score": 0.884072,
+    "all_scores": {
+      "AgentTesla": 0.796286,
+      "Formbook": 0.884072,
+      "Lokibot": 0.708099,
+      "Redline": 0.264361,
+      "njRAT": 0.688448
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "4ea2b569e5dc6389",
+    "predicted": "UNKNOWN",
+    "best_score": 0.922948,
+    "all_scores": {
+      "AgentTesla": 0.850334,
+      "Formbook": 0.922948,
+      "Lokibot": 0.768901,
+      "Redline": 0.303692,
+      "njRAT": 0.671799
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "38366372c790cda6",
+    "predicted": "UNKNOWN",
+    "best_score": 0.926484,
+    "all_scores": {
+      "AgentTesla": 0.847229,
+      "Formbook": 0.926484,
+      "Lokibot": 0.765779,
+      "Redline": 0.322821,
+      "njRAT": 0.657032
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "412d8ed2b5c5aa3e",
+    "predicted": "UNKNOWN",
+    "best_score": 0.917699,
+    "all_scores": {
+      "AgentTesla": 0.840363,
+      "Formbook": 0.917699,
+      "Lokibot": 0.756637,
+      "Redline": 0.293252,
+      "njRAT": 0.663664
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "3c12e78abe3efd06",
+    "predicted": "UNKNOWN",
+    "best_score": 0.931297,
+    "all_scores": {
+      "AgentTesla": 0.910008,
+      "Formbook": 0.931297,
+      "Lokibot": 0.855773,
+      "Redline": 0.423153,
+      "njRAT": 0.79273
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "52d7a3eb1a87e184",
+    "predicted": "UNKNOWN",
+    "best_score": 0.923961,
+    "all_scores": {
+      "AgentTesla": 0.8438,
+      "Formbook": 0.923961,
+      "Lokibot": 0.76116,
+      "Redline": 0.318534,
+      "njRAT": 0.66033
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "5d448744eb1582b4",
+    "predicted": "UNKNOWN",
+    "best_score": 0.887254,
+    "all_scores": {
+      "AgentTesla": 0.803832,
+      "Formbook": 0.887254,
+      "Lokibot": 0.717127,
+      "Redline": 0.271215,
+      "njRAT": 0.697471
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "53c1fa6e950d5688",
+    "predicted": "UNKNOWN",
+    "best_score": 0.908196,
+    "all_scores": {
+      "AgentTesla": 0.826753,
+      "Formbook": 0.908196,
+      "Lokibot": 0.74201,
+      "Redline": 0.292163,
+      "njRAT": 0.677797
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "61933950730d1973",
+    "predicted": "UNKNOWN",
+    "best_score": 0.848027,
+    "all_scores": {
+      "AgentTesla": 0.730469,
+      "Formbook": 0.848027,
+      "Lokibot": 0.631484,
+      "Redline": 0.195299,
+      "njRAT": 0.584272
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "537591540e2f92f3",
+    "predicted": "UNKNOWN",
+    "best_score": 0.858276,
+    "all_scores": {
+      "AgentTesla": 0.74302,
+      "Formbook": 0.858276,
+      "Lokibot": 0.645485,
+      "Redline": 0.213443,
+      "njRAT": 0.591415
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "34eaf742d49a5ef0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.924883,
+    "all_scores": {
+      "AgentTesla": 0.84822,
+      "Formbook": 0.924883,
+      "Lokibot": 0.765695,
+      "Redline": 0.302674,
+      "njRAT": 0.653855
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "50e1ebceb75f5057",
+    "predicted": "UNKNOWN",
+    "best_score": 0.95772,
+    "all_scores": {
+      "AgentTesla": 0.887887,
+      "Formbook": 0.95772,
+      "Lokibot": 0.830734,
+      "Redline": 0.464149,
+      "njRAT": 0.671664
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "62e7f25b6d8353f0",
+    "predicted": "UNKNOWN",
+    "best_score": 0.934018,
+    "all_scores": {
+      "AgentTesla": 0.859047,
+      "Formbook": 0.934018,
+      "Lokibot": 0.779056,
+      "Redline": 0.321425,
+      "njRAT": 0.643367
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "3648a2e39541acad",
+    "predicted": "UNKNOWN",
+    "best_score": 0.919988,
+    "all_scores": {
+      "AgentTesla": 0.83389,
+      "Formbook": 0.919988,
+      "Lokibot": 0.750199,
+      "Redline": 0.303653,
+      "njRAT": 0.641367
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "3280edf0bba5b62b",
+    "predicted": "UNKNOWN",
+    "best_score": 0.927738,
+    "all_scores": {
+      "AgentTesla": 0.851788,
+      "Formbook": 0.927738,
+      "Lokibot": 0.768721,
+      "Redline": 0.301428,
+      "njRAT": 0.642244
+    }
+  },
+  {
+    "true_family": "Qakbot",
+    "sha256_prefix": "3bda63a1f8c60521",
+    "predicted": "UNKNOWN",
+    "best_score": 0.908343,
+    "all_scores": {
+      "AgentTesla": 0.837973,
+      "Formbook": 0.908343,
+      "Lokibot": 0.757999,
+      "Redline": 0.315788,
+      "njRAT": 0.721527
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "5fabd022624a6b56",
+    "predicted": "AgentTesla",
+    "best_score": 0.996095,
+    "all_scores": {
+      "AgentTesla": 0.996095,
+      "Formbook": 0.965439,
+      "Lokibot": 0.98858,
+      "Redline": 0.629056,
+      "njRAT": 0.658998
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "5958de331a0caeb2",
+    "predicted": "UNKNOWN",
+    "best_score": 0.963408,
+    "all_scores": {
+      "AgentTesla": 0.933866,
+      "Formbook": 0.852347,
+      "Lokibot": 0.963408,
+      "Redline": 0.669274,
+      "njRAT": 0.447851
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "4d8f8def81704bbd",
+    "predicted": "UNKNOWN",
+    "best_score": 0.904235,
+    "all_scores": {
+      "AgentTesla": 0.904235,
+      "Formbook": 0.835236,
+      "Lokibot": 0.895639,
+      "Redline": 0.544255,
+      "njRAT": 0.87346
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "44b9c7b495d855d2",
+    "predicted": "AgentTesla",
+    "best_score": 0.99487,
+    "all_scores": {
+      "AgentTesla": 0.99487,
+      "Formbook": 0.962996,
+      "Lokibot": 0.988093,
+      "Redline": 0.628608,
+      "njRAT": 0.654377
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "6333f3de90012f2a",
+    "predicted": "UNKNOWN",
+    "best_score": 0.980706,
+    "all_scores": {
+      "AgentTesla": 0.980706,
+      "Formbook": 0.974814,
+      "Lokibot": 0.944077,
+      "Redline": 0.501405,
+      "njRAT": 0.613291
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "48da2e826fc05285",
+    "predicted": "UNKNOWN",
+    "best_score": 0.885681,
+    "all_scores": {
+      "AgentTesla": 0.809242,
+      "Formbook": 0.702029,
+      "Lokibot": 0.885681,
+      "Redline": 0.860675,
+      "njRAT": 0.555759
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "431106d0fae621b2",
+    "predicted": "UNKNOWN",
+    "best_score": 0.977806,
+    "all_scores": {
+      "AgentTesla": 0.977806,
+      "Formbook": 0.956363,
+      "Lokibot": 0.943619,
+      "Redline": 0.511091,
+      "njRAT": 0.73121
+    }
+  },
+  {
+    "true_family": "Remcos",
+    "sha256_prefix": "4d20cc81fe336962",
+    "predicted": "UNKNOWN",
+    "best_score": 0.981901,
+    "all_scores": {
+      "AgentTesla": 0.953373,
+      "Formbook": 0.981901,
+      "Lokibot": 0.924116,
+      "Redline": 0.599567,
+      "njRAT": 0.662131
+    }
+  }
+]
