@@ -1,0 +1,10 @@
+{
+  "auroc_regenerated": 0.8530758620689656,
+  "auroc_saved": 0.8530896551724139,
+  "tpr_at_theta_regenerated": 0.6655172413793103,
+  "tpr_saved": 0.6586206896551724,
+  "fpr_at_theta_regenerated": 0.132,
+  "fpr_saved": 0.132,
+  "n_known": 290,
+  "n_novel": 250
+}

@@ -1,0 +1,35 @@
+{
+  "auroc_correct_vs_incorrect_seed42": 0.6648570166024873,
+  "auroc_per_seed": {
+    "0": 0.3748908678191025,
+    "1": 0.5167131782945736,
+    "2": 0.6088765603328711,
+    "3": 0.3785078909612626,
+    "4": 0.5874943000455997,
+    "42": 0.6648570166024873
+  },
+  "auroc_mean_seeds0_4": 0.49329655949068185,
+  "auroc_std_seeds0_4": 0.11177727318144871,
+  "auroc_min_seeds0_4": 0.3748908678191025,
+  "auroc_max_seeds0_4": 0.6088765603328711,
+  "auroc_pooled_seeds0_4": 0.47909083055283797,
+  "n_bins": 10,
+  "acc_seed42": 0.7482758620689656,
+  "frac_known_above_theta_seed42": 0.6655172413793103,
+  "acc_above_theta_seed42": 0.7823834196891192,
+  "acc_below_theta_seed42": 0.6804123711340206,
+  "v3_reference": {
+    "closed_acc_mean": 71.5,
+    "closed_acc_std": 1.5,
+    "rej_mean": 84.6,
+    "rej_std": 4.4,
+    "auroc_known_vs_novel_seed42": 0.85,
+    "acc_seed42": 74.8,
+    "corr_vs_incorr_auroc_seed42": 0.67,
+    "corr_vs_incorr_auroc_mean": 0.49,
+    "corr_vs_incorr_auroc_range": [
+      0.38,
+      0.61
+    ]
+  }
+}
