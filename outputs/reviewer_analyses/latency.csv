@@ -1,0 +1,7 @@
+device,stage,batch,warmup,reps,median_ms,p95_ms,p99_ms,mean_ms,throughput_samples_s,device_label
+cpu,A,1,10,200,576.7625,900.8454,908.6438,640.9955,1.7338,"Colab CPU (2 vCPU, 1 threads)"
+cpu,B,1,10,200,573.2972,888.2310,912.1279,636.2972,1.7443,"Colab CPU (2 vCPU, 1 threads)"
+cuda,A,1,50,1000,9.0045,9.2734,9.3765,9.0388,111.0554,Colab Tesla T4 GPU
+cuda,B,1,50,1000,9.1723,9.5096,9.6625,9.2411,109.0238,Colab Tesla T4 GPU
+cuda,A,64,50,100,533.6992,552.8601,557.9382,535.3640,119.9177,Colab Tesla T4 GPU
+cuda,B,64,50,100,612.1970,620.4936,622.4300,606.4862,104.5415,Colab Tesla T4 GPU
